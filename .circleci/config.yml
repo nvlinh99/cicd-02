@@ -59,5 +59,4 @@ jobs:
       - run:
           name: Deploy to Heroku
           command: |
-            cd app/
             git push heroku master
