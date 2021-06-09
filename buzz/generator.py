@@ -6,7 +6,7 @@ buzz = ('continuous testing', 'continuous integration',
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
     'seriously')
-nouns = ('KHTN', '20HCB1', 'MMTNC')
+nouns = ('KHTN-HCMUS', '20HCB1-KHTN', 'MMTNC-20HCB1')
 
 def sample(l, n = 1):
     result = random.sample(l, n)
